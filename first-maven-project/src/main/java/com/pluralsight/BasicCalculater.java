@@ -26,6 +26,7 @@ public static void main(String[] args) {
     if (input.equals("A")) {
         double results = firstNumber + secondNumber;
         System.out.println(firstNumber + " + " + secondNumber + " = " + results);
-        }
+    // test
+    }
     }
 }
